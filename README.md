@@ -1,1 +1,1 @@
-Classification of trees affected by pest invasion using Convolutional Neural Network (CNN). In this project, I used the dataset from kaggle
+Classification of trees affected by pest invasion using Convolutional Neural Network (CNN). In this project, I used the dataset from kaggle. Link data https://drive.google.com/drive/folders/1kJTQRuKk25XLDPHDy6enQBHGiMhlLBXi?usp=drive_link
