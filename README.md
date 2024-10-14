@@ -1,1 +1,1 @@
-# classification-of-pest-invaded-plants-with-Pytorch
+Classification of trees affected by pest invasion using Convolutional Neural Network (CNN). In this project, I used the dataset from kaggle
